@@ -6,7 +6,7 @@ const geocode = require('./utils/geocode.js')
 const current = require('./utils/current')
 
 
-//console.log(__dirname)
+
 //console.log(path.join(__dirname, '../public'))
 
 const app = express()
