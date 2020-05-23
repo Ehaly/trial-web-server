@@ -19,7 +19,6 @@ body {
 
 footer {
     color: #888888;
-    font-size: 14px;
     border-top:1px solid #eeeeee;
     margin-top: 16px;
     padding: 16px;
@@ -33,6 +32,11 @@ header {
 
 h1 {
     font-size: 64px;
+    margin-bottom: 16px;
+}
+
+.footer {
+    font-size: 14px;
     margin-bottom: 16px;
 }
 
