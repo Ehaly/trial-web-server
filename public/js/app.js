@@ -12,7 +12,7 @@ const search = document.querySelector('input')
 const messageOne = document.querySelector('#m1')
 const messageTwo = document.querySelector('#m2')
 
-messageOne.textContent = 'From JavaScript'
+messageOne.textContent = 'From JavaScript '
 
 weatherForm.addEventListener('submit', (e)=>{
     e.preventDefault() //prevent browser form refreshing
